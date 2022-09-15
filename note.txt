@@ -1,0 +1,3 @@
+>> OS modules provides properties and methods for interacting with  operating system of as well as the server
+
+>> Async Fs Methods vs Sync Fs Methods
